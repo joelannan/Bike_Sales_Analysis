@@ -1,2 +1,2 @@
 As collaborators, we created executive dashboards for a Bike Store Company. Using SQL, we created a query to pick out order and sales info and create functions for revenue and total product. We then connected the SQL database to
-Excel workbook where we created pivot tables and slicers to make the dashboard more interactive. We followed up our analytical skills by recreating the same dashboard on Tableau.
+Excel workbook where we created pivot tables and slicers to make the dashboard more interactive. We followed up our analytical skills by recreating the same dashboard on Tableau and PowerBI.
